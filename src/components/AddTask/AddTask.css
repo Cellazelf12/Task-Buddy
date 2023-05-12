@@ -2,6 +2,7 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-iframe {
-    display: none !important;
+.objective {
+    display: inline-block;
+    margin-right: 10px;
 }

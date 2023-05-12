@@ -1,0 +1,31 @@
+{
+    "taskUpdated": "Tarea Actualizada",
+    "taskTitle": "Titulo:",
+    "taskDeadline": "Plazo: ",
+    "taskObjectives": "Objetivos:",
+    "taskUpdatingError": "Ocurrió un error al actualizar la tarea",
+    "editTask": "Editar Tarea",
+    "taskListEmpty": "La lista de tareas esta vacia, añade una tarea para comenzar!",
+    "taskAdded": "Nueva tarea añadida!",
+    "addTask": "Añadir tarea",
+    "addNewTask": "Añadir una nueva tarea",
+  
+    "taskCompleted": "La tarea '{{title}}' ha sido completada.",
+    "taskNoCompleted": "La tarea '{{title}}' no pudo ser completada.",
+    "objectiveFieldEmpty": "El campo de objetivo está vacio.",
+    "objectiveAdded": "El objetivo '{{objective}}' ha sido añadido.",
+    "objectiveAlreadyAdded": "El objetivo '{{objective}}' ya existe.",
+    "objectiveRemoved": "Ha sido removido el objetivo '{{objective}}'",
+    "objectiveListEmpty": "La lista de objetivos está vacia, añade uno",
+    "provideTaskTitle": "Porfavor escribe un titulo para la tarea",
+    "addLeastObjective": "Porfavor añade al menos un objetivo",
+    "showObjectives": "Mostrar Objetivos",
+    "hideObjectives": "Ocultar Objetivos",
+    "addObjective": "Añadir Objetivo",
+    "removeButton": "Remover",
+    "darkMode": "Tema Oscuro",
+    "lightMode": "Tema Claro",
+    "switchTheme": "Haz cambiado el tema al '{{theme}}'",
+    "signoutButton": "Cerrar Sesión"
+  }
+  
