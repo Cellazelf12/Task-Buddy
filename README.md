@@ -47,6 +47,7 @@ Si deseas contribuir a Task Buddy, ¡eres bienvenido! Sigue estos pasos:
 - React
 
 ## Librerías Utilizadas
+- React Hot Toast
 - i18n
 - Firebase
 - FirebaseStore
